@@ -12,13 +12,13 @@ class Hello
     {
         (function () {
             echo 'Hello World';
-        })();
+        });
     }
 
     public static function hello2()
     {
         (function () {
             echo 'Hello World 2';
-        })();
+        });
     }
 }
